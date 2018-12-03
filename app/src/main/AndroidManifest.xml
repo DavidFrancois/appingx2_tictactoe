@@ -20,6 +20,8 @@
         </activity>
         <activity android:name=".Game">
         </activity>
+        <activity android:name=".List">
+        </activity>
     </application>
 
 </manifest>
